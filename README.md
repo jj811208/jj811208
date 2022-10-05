@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello, I'm Ryan.
+### Hello, I'm Ryan. 👋
 
 I'm a senior front-end engineer at [GSS](https://www.gss.com.tw/en/about/company/), helping with product development decisions, and optimizing workflows to enhance the developer experience.
 
