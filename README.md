@@ -1,6 +1,6 @@
 ### Hello, I'm Ryan 👋
 
-I'm a senior front-end engineer at [GSS](https://www.gss.com.tw/en/about/company/), helping with product development decisions, and optimizing workflows to enhance the developer experience.
+I'm a senior front-end engineer, helping with product development decisions, and optimizing workflows to enhance the developer experience.
 
 I have many years of experience in TypeScript software development, and I'm also a [scrum.org](https://www.scrum.org/) certified Scrum Master.
 
