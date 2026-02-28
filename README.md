@@ -2,7 +2,7 @@
 
 As a senior front-end engineer, I not only develop software but also assist in product development decisions, optimize workflow, and improve the developer experience.
 
-I have many years of experience in TypeScript-based software development, and I'm also a [scrum.org](https://www.scrum.org/) certified Scrum Master.
+I have many years of experience in TypeScript-based software development.
 
 ### Contact Me ☎️
 
